@@ -1,0 +1,15 @@
+td {
+  padding: 10px;
+}
+
+th {
+  background: darkgrey;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+li {
+  cursor: pointer;
+}
